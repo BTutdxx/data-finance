@@ -10,7 +10,7 @@ const NavBar = () => {
         setNav(!nav)
     }
     return (
-        <div className= "flex justify-between items-center h-24 mx-auto px-7 text-white">
+        <div className= "fixed top-0 left-0 w-full z-50  flex justify-between items-center h-24 mx-auto px-7 text-white bg-[#09090b]">
             <h1 className="w-full text-3xl font-bold text-[#38bdf8]">FinData.</h1>
             <ul className="hidden md:flex">
                 <li className="p-4">Home</li>
