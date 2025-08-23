@@ -18,9 +18,9 @@ const Hero = () => {
                />
          </div> 
          <p className="md:text-2xl text-xl font-bold text-gray-500">Monitor your data analytics to increase revenue for B2B, B2C, B2G, &SASS platform.</p>
-         <a href="http://finsight-psi.vercel.app" target="">
+        
         <button className="bg-[#38bdf8] rounded-full w-[170px] h-[50px] my-6 mx-auto px-6">Get Started</button>
-        </a>
+        
         </div>
     </div>
     )
